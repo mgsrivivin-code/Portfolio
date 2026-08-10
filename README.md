@@ -1,6 +1,6 @@
 # AI Agent Development Portfolio
 
-**Leo Das (Srivivin M G)**
+**Srivivin M G**
 📧 [mgsrivivin@gmail.com](mailto:mgsrivivin@gmail.com) | 📱 +91-6381050274
 🔗 GitHub | LinkedIn
 
